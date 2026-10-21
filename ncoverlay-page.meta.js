@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NCOverlay (ページ側)
 // @namespace    local.jin.ncoverlay
-// @version      3.40.202610190721
+// @version      3.40.202610210812
 // @author       Midra (NCOverlay) / Safari 版: Jin
 // @homepageURL  https://github.com/jinger-box/ncoverlay-userscript
 // @description  NCOverlay のページ側の処理 (通信の横取り・プラグイン)。NCOverlay 本体と一緒に入れてください
