@@ -15,7 +15,14 @@ Safari の [Userscripts](https://apps.apple.com/app/userscripts/id1463298887) �
    - ページ側: https://raw.githubusercontent.com/jinger-box/ncoverlay-userscript/main/ncoverlay-page.user.js
 3. 動画のページで画面に触れる（マウスを動かす）と、右端に「NCO」ボタンが出ます
 
-新しい版は、Userscripts がこのリポジトリを見て更新します。
+## 更新のしかた
+
+Userscripts は新しい版を見つけるだけで、ひとりでには入れ替えません。ときどき次のどちらかで更新してください。
+
+- Safari の Userscripts のボタンを押し、更新の一覧（Available Updates）に出ていれば更新する
+- 上の「入れ方」の 2 つの URL を開き直して、もう一度インストールする
+
+入っている版は、スクリプトの先頭の `@version` で分かります。
 
 ## ライセンス
 

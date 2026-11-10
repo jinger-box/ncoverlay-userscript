@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NCOverlay
 // @namespace    local.jin.ncoverlay
-// @version      3.40.202611100206
+// @version      3.40.202611100259
 // @author       Midra (NCOverlay) / Safari 版: Jin
 // @homepageURL  https://github.com/jinger-box/ncoverlay-userscript
 // @description  動画配信サービスの再生画面にニコニコのコメントを表示するユーザースクリプト (Safari + Userscripts 向け)
